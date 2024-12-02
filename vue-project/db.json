@@ -1,0 +1,249 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Nguyễn Văn A",
+      "date": "12/11/1990",
+      "email": "ancqph51578@gmail.com",
+      "role": "1",
+      "address": "Hà Nội",
+      "password": "password123"
+    },
+    {
+      "id": "2",
+      "name": "Nguyễn Văn B",
+      "date": "2024-11-01",
+      "email": "ronaldo@gmail.com",
+      "role": "1",
+      "address": "Hà Nộiiii",
+      "password": "ronaldo123"
+    },
+    {
+      "id": "3",
+      "name": "Nguyễn Văn C",
+      "date": "2024-11-01",
+      "email": "ronaldo@gmail.com",
+      "role": "1",
+      "address": "Hà Nộiiii",
+      "password": "ronaldo123"
+    },
+    {
+      "id": "4",
+      "name": "Trần Thị D",
+      "date": "15/03/1995",
+      "email": "tranthiD@gmail.com",
+      "role": "1",
+      "address": "Hà Nội",
+      "password": "tranthiD2024"
+    },
+    {
+      "id": "5",
+      "name": "Lê Minh H",
+      "date": "10/07/1988",
+      "email": "leminhh@outlook.com",
+      "role": "2",
+      "address": "Hải Phòng",
+      "password": "leminhH2024"
+    },
+    {
+      "id": "6",
+      "name": "Phan Minh K",
+      "date": "20/12/2000",
+      "email": "phanminhk@yahoo.com",
+      "role": "0",
+      "address": "Đà Nẵng",
+      "password": "phanminhk2024"
+    },
+    {
+      "id": "7",
+      "name": "Hoàng Thị M",
+      "date": "11/09/1993",
+      "email": "hoangthiM@gmail.com",
+      "role": "1",
+      "address": "Quảng Ninh",
+      "password": "hoangthiM123"
+    },
+    {
+      "id": "8",
+      "name": "Nguyễn Thị N",
+      "date": "05/05/1992",
+      "email": "nguyenthina@gmail.com",
+      "role": "0",
+      "address": "Hồ Chí Minh",
+      "password": "nguyenthina123"
+    },
+    {
+      "id": "2ff7",
+      "name": "Cao Quốc An",
+      "date": "2024-12-20",
+      "address": "hà nội",
+      "email": "ancqph51578@gmail.com",
+      "password": "asasda",
+      "role": "0"
+    },
+    {
+      "id": "64ab",
+      "name": "Cao Quốc An",
+      "date": "2024-12-13",
+      "address": "Thái bình",
+      "email": "ronaldo@gmail.com",
+      "password": "sdcv",
+      "role": "0"
+    },
+    {
+      "id": "3162",
+      "name": "Cao Quốc An",
+      "date": "2024-12-20",
+      "address": "Thái bình",
+      "email": "ancqph51578@gmail.com",
+      "password": "123457",
+      "role": "0"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Áo Phông",
+      "price": "20000",
+      "img": "https://cdn.boo.vn/media/catalog/product/b/o/boo-4_1_3.jpg",
+      "quantity": "1000",
+      "description": "Đẹp trai nên mặc",
+      "categoryId": "1"
+    },
+    {
+      "id": "2",
+      "name": "Áo Sơ Mi",
+      "price": "20000",
+      "img": "https://cdn.boo.vn/media/catalog/product/b/o/boo-4_1_3.jpg",
+      "quantity": "1000",
+      "description": "Đẹp trai nên mặc",
+      "categoryId": "2"
+    },
+    {
+      "id": "3",
+      "name": "Áo Ngắn Tay",
+      "price": "20000",
+      "img": "https://cdn.boo.vn/media/catalog/product/b/o/boo-4_1_3.jpg",
+      "quantity": "1000",
+      "description": "Đẹp trai nên mặc",
+      "categoryId": "1"
+    },
+    {
+      "id": "4",
+      "name": "Áo Ngắn Tay",
+      "price": "234566",
+      "img": "https://dgcs.vn/media/37181/catalog/SATBC18M-M%C3%A0u%202.jpg",
+      "quantity": "122",
+      "description": "Áo mát lạnh",
+      "categoryId": "1"
+    },
+    {
+      "id": "5",
+      "name": "Quần Jeans",
+      "price": "35000",
+      "img": "https://cdn.boo.vn/media/catalog/product/q/u/quannjeans.jpg",
+      "quantity": "500",
+      "description": "Quần jean dành cho nam",
+      "categoryId": "2"
+    },
+    {
+      "id": "6",
+      "name": "Áo Khoác Dù",
+      "price": "150000",
+      "img": "https://cdn.boo.vn/media/catalog/product/a/o/aokhoacdu.jpg",
+      "quantity": "200",
+      "description": "Áo khoác siêu ấm",
+      "categoryId": "1"
+    },
+    {
+      "id": "7",
+      "name": "Áo Thun Nam",
+      "price": "25000",
+      "img": "https://cdn.boo.vn/media/catalog/product/a/o/aothunnam.jpg",
+      "quantity": "1000",
+      "description": "Áo thun chất liệu cotton",
+      "categoryId": "1"
+    },
+    {
+      "id": "8",
+      "name": "Quần Short Nam",
+      "price": "30000",
+      "img": "https://cdn.boo.vn/media/catalog/product/q/u/quanshort.jpg",
+      "quantity": "300",
+      "description": "Quần short mùa hè",
+      "categoryId": "2"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "Áo",
+      "description": "Các loại áo dành cho nam và nữ, bao gồm áo sơ mi, áo thun, áo khoác."
+    },
+    {
+      "id": "2",
+      "name": "Quần",
+      "description": "Các loại quần dành cho nam và nữ, bao gồm quần jeans, quần thể thao, quần kaki."
+    },
+    {
+      "id": "3",
+      "name": "Giày",
+      "description": "Giày thể thao, giày công sở, giày thời trang cho nam và nữ."
+    },
+    {
+      "id": "4",
+      "name": "Phụ Kiện",
+      "description": "Các loại phụ kiện như mũ, kính, đồng hồ và thắt lưng."
+    }
+  ],
+  "order": [
+    {
+      "date": "24/12/2024",
+      "payment": "0",
+      "paymentStatus": "0",
+      "status": "0",
+      "total": "19250",
+      "id": "1"
+    },
+    {
+      "date": "25/12/2024",
+      "payment": "0",
+      "paymentStatus": "0",
+      "status": "0",
+      "total": "19250",
+      "id": "2"
+    },
+    {
+      "date": "26/12/2024",
+      "payment": "1",
+      "paymentStatus": "1",
+      "status": "3",
+      "total": "350000",
+      "id": "3"
+    },
+    {
+      "date": "27/12/2024",
+      "payment": "0",
+      "paymentStatus": "0",
+      "status": "1",
+      "total": "120000",
+      "id": "4"
+    },
+    {
+      "date": "28/12/2024",
+      "payment": "1",
+      "paymentStatus": "1",
+      "status": "2",
+      "total": "30000",
+      "id": "5"
+    },
+    {
+      "date": "29/12/2024",
+      "payment": "1",
+      "paymentStatus": "1",
+      "status": "4",
+      "total": "50000",
+      "id": "6"
+    }
+  ]
+}
